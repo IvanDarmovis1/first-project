@@ -10,4 +10,8 @@ git push origin main
 
 git add.
 git commit -am "blog changes commit"
+git checkout main
 
+git merge blog
+
+git push main

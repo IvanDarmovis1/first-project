@@ -8,5 +8,6 @@ git checkout -b blog
 
 git push origin main
 
+git add.
 git commit -am "blog changes commit"
 
